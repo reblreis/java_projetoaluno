@@ -1,0 +1,11 @@
+# Arquivos Java Compilados
+*.class
+
+#Arquivos de dependência
+/lib/
+
+#Arquivos de build do Maven
+target/
+
+# Arquivos de build do Gradle
+build/
